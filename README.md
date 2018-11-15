@@ -7,7 +7,7 @@
 	author: gsw——HNU
 	data: 2018
 	tips: 这是pycharm项目,最好用pycharm打开
-	所有的模型好像都因为太大，无法上传，有需要可以联系我
+	模型链接放在了issues里面
 
 ### File Directory
 
